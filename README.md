@@ -1,2 +1,2 @@
-# performance-comparison
+# Feature Analysis
 Compares algorithms performance
