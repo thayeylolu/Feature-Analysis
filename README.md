@@ -2,7 +2,7 @@
 
 ### Objective 
 ----
-This report aims to interpret the importance of features of the [pumpkin seed data set](https://www.kaggle.com/mkoklu42/pumpkin-seeds-dataset?select=Pumpkin_Seeds_Dataset.xlsx) in predicting the class of the seed (Çerçevelik or Ürgüp Sivrisi) across three machine learning algorithms: 
+This report aims to interpret the importance of features of the [pumpkin seed data set](https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset) in predicting the class of the seed (Çerçevelik or Ürgüp Sivrisi) across three machine learning algorithms: 
 
 - Logistic Regression
 - Random Forest
